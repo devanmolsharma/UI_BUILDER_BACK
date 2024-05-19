@@ -1,0 +1,18 @@
+{
+  "name": "ui_backend",
+  "version": "1.0.0",
+  "description": "Backend for flutter app builder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "cmd": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http-proxy": "^1.18.1"
+  }
+}
